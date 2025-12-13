@@ -1,4 +1,4 @@
-# 🛍️ FashionWebsite – MERN Stack E-Commerce Web Application.
+# 🛍️ – MERN Stack E-Commerce Web Application – .
 
 ---
 
