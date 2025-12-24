@@ -24,7 +24,6 @@ _This project is designed to simulate a real-world shopping platform with proper
 - **Multer**: Middleware for handling file uploads.
 - **Cloudinary**: Cloud-based image storage service.
 - **Razorpay**: Payment gateway integration.
-- **Stripe**: Online payment processing.
 - **Nodemon**: Automatically restarts server during development.
 
 ### Frontend
