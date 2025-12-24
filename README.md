@@ -198,7 +198,7 @@ Open `http://localhost:5174` in your web browser.
 ## Author
 
 **Mohit Rajak**  
-Email: contact.mohitrajak022004@gmail.com  
+Email: mohitrajak022004@gmail.com  
 LinkedIn: https://www.linkedin.com/in/mohit-rajak/
 
 
